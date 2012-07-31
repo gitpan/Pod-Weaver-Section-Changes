@@ -22,4 +22,4 @@ requires:
 resources:
   homepage: http://metacpan.org/release/Pod-Weaver-Section-Changes
   repository: http://github.com/sharyanto/perl-Pod-Weaver-Section-Changes
-version: 0.01
+version: 0.02

@@ -2,7 +2,7 @@ NAME
     Pod::Weaver::Section::Changes - Add a CHANGES POD section
 
 VERSION
-    version 0.01
+    version 0.02
 
 SYNOPSIS
     In your "weaver.ini":
